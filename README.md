@@ -3,4 +3,6 @@ Khora urban thinkers es una consultora especializada en la prestación de servic
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/khora-urban-thinkers/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khoraurban) 
+
+## Web Page:
 [![KhoraUrbanThinkers](https://khoraurbanthinkers.es/wp-content/uploads/2020/08/khora-logo.svg)](https://khoraurbanthinkers.es/en/home-en/)
