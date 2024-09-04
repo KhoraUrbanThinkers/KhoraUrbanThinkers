@@ -3,7 +3,7 @@ Khora urban thinkers es una consultora especializada en la prestación de servic
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Khora Urban Thinkers) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khoraurban) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/khora-urban-thinkers/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khoraurban) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Khora Urban Thinkers&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khora Urban Thinkers&theme=react&hide_border=true)<br/>
